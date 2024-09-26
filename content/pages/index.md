@@ -90,7 +90,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/what-is-influencer-marketing-graphic_-3.png
+          url: /images/7.png
           styles:
             self:
               borderRadius: x-large
