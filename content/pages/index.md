@@ -271,7 +271,7 @@ sections:
         type: FeaturedItem
       - title: 80+
         tagline: This is the tagline
-        subtitle: Deal
+        subtitle: Deal We Completed
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
