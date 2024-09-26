@@ -293,7 +293,7 @@ sections:
         type: FeaturedItem
       - title: Feature Item Three
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: ''
         image:
           url: /images/images (2).png
