@@ -247,7 +247,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     items:
-      - title: Feature Item One
+      - title: 50+
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
