@@ -67,12 +67,11 @@ sections:
       - type: FeaturedItem
         title: Influencer Marketing
         subtitle: ''
-        text: >+
-          Service Media specializes in influencer campaigns to increase your
-          brand's reach and engagement. We partner with popular figures across
-          social platforms to connect your brand to ideal audiences through
-          authentic compelling content.
-
+        text: >
+          Flexpro specializes in influencer campaigns to increase your brand's
+          reach and engagement. We partner with popular figures across social
+          platforms to connect your brand to ideal audiences through authentic
+          compelling content.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
