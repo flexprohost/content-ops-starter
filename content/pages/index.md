@@ -9,9 +9,13 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Welcome to FlexPro, where we connect brands with the perfect sponsorship
+      opportunities. As a leading agency in the industry, we specialize in
+      matching businesses with targeted sponsorships that amplify visibility and
+      drive engagement. Whether you’re looking to enhance your brand’s presence
+      or seek innovative partnerships, FlexPro is here to help you navigate the
+      world of sponsorships with expertise and passion. Let’s elevate your brand
+      together!
     actions:
       - label: Get started
         altText: ''
