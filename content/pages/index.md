@@ -291,7 +291,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Team Experience (years)
+      - title: 2+
         tagline: ''
         subtitle: 2+
         text: |
