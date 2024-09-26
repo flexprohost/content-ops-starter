@@ -294,7 +294,8 @@ sections:
       - title: Team Experience (years)
         tagline: ''
         subtitle: ''
-        text: ''
+        text: |
+          2+
         image:
           url: /images/images (2).png
           altText: Placeholder image
