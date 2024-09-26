@@ -212,11 +212,12 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      **We're your one-stop shop for all your media needs. Whether you're a
+      YouTuber, streamer, or a Brand just looking to up your content game, we've
+      got you covered. From editing, script writing, thumbnails and sponsorships
+      to Complete Media Management opportunities, our team of experts can help
+      you take your media to the next level.**
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
