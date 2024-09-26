@@ -97,10 +97,14 @@ sections:
               borderRadius: x-large
       - title: Sponsorships
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Service Media offers full sponsorship packages. These packages fit the
+          unique requirements of businesses and groups aiming to raise their
+          profile. We set up clever tie-ups between sponsors and events social
+          media stars, or online content makers.
+
+
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
