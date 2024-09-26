@@ -97,14 +97,11 @@ sections:
               borderRadius: x-large
       - title: Sponsorships
         subtitle: ''
-        text: >+
-          Service Media offers full sponsorship packages. These packages fit the
+        text: >
+          Flex pro offers full sponsorship packages. These packages fit the
           unique requirements of businesses and groups aiming to raise their
           profile. We set up clever tie-ups between sponsors and events social
           media stars, or online content makers.
-
-
-
         image:
           url: /images/icon2.svg
           altText: Featured icon two
