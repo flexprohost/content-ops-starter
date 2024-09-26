@@ -5,20 +5,6 @@
         "type": "ImageBlock"
     },
     "text": "We were launched with an idea of providing all services a Media Requires, and thus achieved our name of Flexpro !\n\n",
-    "secondaryLinks": {
-        "title": "Company",
-        "links": [
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
     "socialLinks": [
         {
             "altText": "GitHub link",
