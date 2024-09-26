@@ -102,7 +102,7 @@ sections:
           profile. We set up clever tie-ups between sponsors and events social
           media stars, or online content makers.
         image:
-          url: /images/images.png
+          url: /images/1 minute.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
