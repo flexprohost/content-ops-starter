@@ -130,7 +130,7 @@ sections:
           whatever problem you're facing.
 
         image:
-          url: /images/icon3.svg
+          url: /images/17.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
