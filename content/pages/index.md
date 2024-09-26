@@ -293,7 +293,7 @@ sections:
         type: FeaturedItem
       - title: Team Experience (years)
         tagline: ''
-        subtitle: ''
+        subtitle: 2+
         text: |
           2+
         image:
