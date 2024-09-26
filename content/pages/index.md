@@ -130,7 +130,7 @@ sections:
           whatever problem you're facing.
 
         image:
-          url: /images/17.png
+          url: /images/mon.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
