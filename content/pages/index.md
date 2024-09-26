@@ -250,8 +250,7 @@ sections:
       - title: 50+
         tagline: This is the tagline
         subtitle: Happy customer
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: ''
         image:
           url: /images/what-is-influencer-marketing-graphic_-3.png
           altText: Placeholder Image
