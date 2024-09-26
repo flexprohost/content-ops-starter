@@ -272,8 +272,7 @@ sections:
       - title: 80+
         tagline: This is the tagline
         subtitle: Deal We Completed
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: ''
         image:
           url: /images/images.png
           altText: Placeholder image
