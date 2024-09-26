@@ -102,7 +102,7 @@ sections:
           profile. We set up clever tie-ups between sponsors and events social
           media stars, or online content makers.
         image:
-          url: /images/icon2.svg
+          url: /images/what-is-influencer-marketing-graphic_-3.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
