@@ -298,7 +298,7 @@ sections:
           Learn from the tutorial and build your first awesome Netlify Create
           site.
         image:
-          url: /images/respn.png
+          url: /images/images (2).png
           altText: Placeholder image
           styles:
             self:
