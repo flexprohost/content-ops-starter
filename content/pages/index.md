@@ -121,7 +121,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Freelance Services
-        subtitle: Faster
+        subtitle: ''
         text: >+
           Flexpro's freelance pros tackle your company's needs with skill and
           adaptability. Need content? Digital marketing? Graphics? Websites?
