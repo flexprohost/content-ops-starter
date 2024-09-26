@@ -249,7 +249,7 @@ sections:
     items:
       - title: 50+
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Happy customer
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
