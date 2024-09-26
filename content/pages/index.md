@@ -212,7 +212,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: "We're your one-stop shop for all your media needs. Whether you're a YouTuber, streamer, or a Brand just looking to up your content game, we've got you covered. From editing, script writing, thumbnails and sponsorships to Complete Media Management opportunities, our team of experts can help you take your media to the next level.\n\n\n\n\n\n\n\n\n\n\\- Service Media was founded by:\_Shivamlochan/Zulfiqarr\n\\- Service Media founded on :\_[16th June, 2024](https://discord.com/users/821036039451836478)\n\n"
+    text: "We're your one-stop shop for all your media needs. Whether you're a YouTuber, streamer, or a Brand just looking to up your content game, we've got you covered. From editing, script writing, thumbnails and sponsorships to Complete Media Management opportunities, our team of experts can help you take your media to the next level.\n\n**- Service Media was founded by:\_Shivamlochan/Zulfiqarr\n\\- Service Media founded on :\_**[**16th June, 2024**](https://discord.com/users/821036039451836478)\n"
     badge:
       label: ''
       color: text-primary
