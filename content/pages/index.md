@@ -67,10 +67,12 @@ sections:
       - type: FeaturedItem
         title: Influencer Marketing
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Service Media specializes in influencer campaigns to increase your
+          brand's reach and engagement. We partner with popular figures across
+          social platforms to connect your brand to ideal audiences through
+          authentic compelling content.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
