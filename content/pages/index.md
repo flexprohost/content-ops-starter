@@ -322,11 +322,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      At FlexPro, we’re dedicated to elevating your brand’s online presence.
+      Whether you have questions about our services, want to discuss a potential
+      project, or just need some social media advice, we’re here to help!
+
     media:
       fields:
         - name: name
