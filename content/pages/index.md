@@ -248,7 +248,7 @@ sections:
     subtitle: ''
     items:
       - title: 50+
-        tagline: This is the tagline
+        tagline: ''
         subtitle: Happy customer
         text: ''
         image:
