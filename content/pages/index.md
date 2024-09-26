@@ -205,7 +205,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Grow your business 10x faster
+      text: About
       color: text-dark
       styles:
         self:
