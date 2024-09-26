@@ -294,9 +294,7 @@ sections:
       - title: Feature Item Three
         tagline: ''
         subtitle: This is the item subtitle
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: ''
         image:
           url: /images/images (2).png
           altText: Placeholder image
