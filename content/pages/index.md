@@ -239,7 +239,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: List of features here
+      text: Team Stats
       color: text-primary
       styles:
         self:
