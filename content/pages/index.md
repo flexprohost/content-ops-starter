@@ -65,7 +65,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: 500kInfluencer Marketing
+        title: Influencer Marketing
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
