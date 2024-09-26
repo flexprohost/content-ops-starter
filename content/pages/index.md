@@ -122,10 +122,13 @@ sections:
         type: FeaturedItem
       - title: Freelance Services
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Flexpro's freelance pros tackle your company's needs with skill and
+          adaptability. Need content? Digital marketing? Graphics? Websites?
+          Something else? Our experts deliver top-notch results in all these
+          areas and more. We've got freelancers ready to jump in and solve
+          whatever problem you're facing.
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
