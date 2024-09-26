@@ -270,7 +270,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: 80+
-        tagline: This is the tagline
+        tagline: ''
         subtitle: Deal We Completed
         text: ''
         image:
