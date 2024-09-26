@@ -213,11 +213,11 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      **We're your one-stop shop for all your media needs. Whether you're a
+      We're your one-stop shop for all your media needs. Whether you're a
       YouTuber, streamer, or a Brand just looking to up your content game, we've
       got you covered. From editing, script writing, thumbnails and sponsorships
       to Complete Media Management opportunities, our team of experts can help
-      you take your media to the next level.**
+      you take your media to the next level.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
