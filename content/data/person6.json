@@ -1,9 +1,9 @@
 {
     "type": "Person",
-    "name": "Harrison Tally",
-    "role": "Co-founder & CEO",
+    "name": "Rexy",
+    "role": "Irl meeting",
     "image": {
-        "url": "/images/avatar6.svg",
+        "url": "/images/81a2b1bf3123776bddde308e141be1c4.jpg",
         "altText": "Harrison Tally",
         "styles": {
             "self": {
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": ""
 }
